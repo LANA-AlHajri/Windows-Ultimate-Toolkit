@@ -1,0 +1,64 @@
+# Windows Ultimate Toolkit - User Guide
+
+## Contents
+1. System Requirements
+2. Usage Instructions
+3. Detailed Features
+4. FAQ
+
+## 1. System Requirements
+- Windows 10/11
+- Administrator privileges
+- 10MB free space
+- Internet connection (for updates)
+
+## 2. Usage Instructions
+1. Download optimizer.bat
+2. Right-click and select "Run as Administrator"
+3. Accept restore point creation
+4. Wait for completion
+5. Restart your system
+
+## 3. Detailed Features
+
+### Network Optimizations 🌐
+- Internet connection speed boost
+- DNS response optimization
+- Latency reduction
+- Online gaming performance enhancement
+
+### Power Optimizations ⚡
+- Performance/battery life balance
+- Optimal power plan configuration
+- Display settings optimization
+- Smart power management
+
+### System Optimizations 💻
+- System response enhancement
+- Memory performance boost
+- Resource usage optimization
+- Application performance improvement
+
+## 4. Frequently Asked Questions
+
+Q: Is this tool safe?
+A: Yes, an automatic restore point is created before any changes.
+
+Q: How often should I run this tool?
+A: Monthly or after major Windows updates.
+
+Q: How can I revert changes?
+A: Use the automatically created restore point.
+
+## Important Notes
+- Save your work before running
+- Ensure stable power supply for laptops
+- Don't interrupt the optimization process
+
+## Support & Help
+- Discord: ln0w
+- GitHub Issues
+
+
+---
+Created by LANA-AlHajri
